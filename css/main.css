@@ -793,7 +793,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
     display: inline-block;
-    font-family: "roboto-black", sans-serif;
+    font-family: sans-serif;
     font-size: 1.4rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
@@ -2548,12 +2548,12 @@ footer a:visited {
 footer a:hover,
 footer a:focus,
 footer a:active {
-    color: #f9da4f;
+    color: #001835;
     outline: 0;
 }
 
 .footer-social-wrap {
-    background: #111;
+    background: rgb(216, 216, 216);
 }
 
 .footer-social-list {
@@ -2570,7 +2570,7 @@ footer a:active {
 .footer-social-list li a {
     font-size: 4.2rem;
     line-height: 4.2rem;
-    color: #FFFFFF;
+    color: #546071;
     display: block;
     padding: 4.2rem 5rem 4.8rem;
     border-right: 1px solid rgba(255, 255, 255, 0.02);
@@ -2579,7 +2579,7 @@ footer a:active {
 .footer-social-list li a:hover,
 .footer-social-list li a:focus,
 .footer-social-list li a:active {
-    color: #f9da4f;
+    color: #001835;
 }
 
 .footer-social-list li:first-child a {
