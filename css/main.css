@@ -1446,7 +1446,7 @@ header .logo a {
     -moz-background-size: cover;
     background-size: cover;
     text-align: center;
-    padding-top: 15.6rem;
+    padding-top: 19rem;
     overflow: hidden;
 
 }
@@ -2153,6 +2153,14 @@ header .logo a {
 .pricing-content .primary .features li strong {
     color: #FFFFFF;
 }
+
+.coloefilter-base {
+    background-color: white;
+    /* カラーフィルタ効果の色を指定 */
+    display: inline-block;
+}
+
+/* (任意：インラインブロック化したい場合) */
 
 /* ------------------------------------------------------------------- 
  * responsive:
